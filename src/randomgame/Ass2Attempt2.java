@@ -38,7 +38,7 @@ public class Ass2Attempt2 {
 			}
 
 		} if (numberOfGuesses == 5) {
-			System.out.println("You lose sucka");
+			System.out.println("You lose sucka, the number was " + randomNumber);
 	
 		}
 	}
